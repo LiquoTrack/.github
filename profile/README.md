@@ -9,7 +9,7 @@ Facilitar a las licorerías la gestión de los inventarios y a sus proveedores a
 ## Los proyectos que estamos desarrollando
 
 - [**stocksip-landing-page**](https://github.com/LiquoTrack/stocksip-landing-page): Sitio web de negocio desarrollado usando HTML, CSS y Javascrip que ayudará a construir confianza con los visitantes de dicho sitio web.
-- [**stocksip-backend-app**](https://github.com/LiquoTrack/stocksip-landing-page): Aplicación para servicios web desarrollada usando C# y .NET Core donde se usan APIs REST para manejar datos y operaciones que se necesitan para la aplicación.
+- [**stocksip-backend-app**](https://github.com/LiquoTrack/stocksip-platform-api): Aplicación para servicios web desarrollada usando C# y .NET Core donde se usan APIs REST para manejar datos y operaciones que se necesitan para la aplicación.
 - [**stocksip-native-mobile-app**](https://github.com/LiquoTrack/stocksip-landing-page): Aplicación móvil nativa para Android desarrollada usando Kotlin donde los usuarios realizarán sus acciones según sus necesidades.
 - [**stocksip-multiplatform-mobile-app**](https://github.com/LiquoTrack/stocksip-landing-page): Aplicación móvil multiplataforma desarrollada usando Flutter y Dart donde los usuarios realizarán sus acciones según sus necesidades.
 
